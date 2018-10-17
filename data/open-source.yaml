@@ -1,0 +1,18 @@
+items:
+  - title: first-contributions
+    description: Help beginners to contribute to open source projects
+    urls:
+      - https://github.com/firstcontributions/first-contributions
+      - https://firstcontributions.github.io/
+    tags:
+      - open-source-software
+      - repositories
+
+  - title: awesome-for-beginners
+    description: A list of awesome beginners-friendly projects
+    urls:
+      - https://github.com/MunGell/awesome-for-beginners
+    tags:
+      - open-source-software
+      - repositories
+

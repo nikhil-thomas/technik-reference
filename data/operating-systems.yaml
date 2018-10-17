@@ -1,0 +1,10 @@
+items:
+  - title: os-tutorial
+    description: How to create an OS from scratch
+    urls:
+      - https://github.com/cfenollosa/os-tutorial
+    tags:
+      - operating-systems
+      - how-to
+      - tutorial-projects
+

@@ -1,0 +1,11 @@
+items:
+  - title: The Illustrated TLS Connection
+    description: Every byte of a TLS connection explained and reproduced.
+    urls:
+      - https://tls.ulfheim.net/ 
+      - https://github.com/syncsynchalt/illustrated-tls
+    tags:
+      - tls
+      - security
+      - concepts
+

@@ -1,0 +1,9 @@
+items:
+  - title: project-based-learning
+    description: Curated list of project-based tutorials
+    urls:
+      - https://github.com/tuvtran/project-based-learning
+    tags:
+      - tutorial-projects
+      - repositories
+

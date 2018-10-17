@@ -1,0 +1,10 @@
+items:
+  - title: makefile tutorial
+    description: simple and effective tutorial
+    urls:
+      - https://github.com/theicfire/makefiletutorial
+      - http://makefiletutorial.com/
+    tags:
+      - command-line
+      - make
+
