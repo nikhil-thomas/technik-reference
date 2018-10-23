@@ -1,0 +1,11 @@
+items:
+  - title: 33-js-concepts
+    description: 33 concepts every JavaScript developer should know.
+    urls:
+      - https://github.com/leonardomso/33-js-concepts
+    tags:
+      - programming-languages
+      - javascript
+      - concepts
+      - repositories
+
