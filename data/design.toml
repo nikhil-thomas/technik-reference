@@ -1,0 +1,17 @@
+domain_name: Design
+description: Hardware/Software Product Design
+items:
+  - title: 10 Small Design Mistakes We Still Make
+    description:  We will always want the principle “don’t make me think” applied to any type of product we interact (whether it is a microwave, tv, smartphone or car).
+    authors:
+      - Eugen Eşanu
+    urls:
+      - https://uxplanet.org/10-small-design-mistakes-we-still-make-1cd5f60bc708
+      - http://makefiletutorial.com/
+    tags:
+      - design
+      - ux/ui
+      - usability
+      - engineering
+      - jobhunt
+
